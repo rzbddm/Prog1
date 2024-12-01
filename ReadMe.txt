@@ -1,0 +1,3 @@
+1. yf3.py is the script which will download all tickers into files based on the file in paragraph 2. From Visual Studio Code 2019 send python yf3.py and the prompt will ask for a number that will go back from today that many days. Note, if you want to go back say 50 trading sessions you will need to put a number larger than 50 (these are the non-trading weekends)
+2. Samples.csv is a file which contain the ticker symbols in column A. The ticker files will be found in the directory in the same location as this file. The directory is called tickers.
+3. 
